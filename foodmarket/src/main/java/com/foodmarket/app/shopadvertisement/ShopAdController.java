@@ -166,6 +166,6 @@ public class ShopAdController {
 		sService.deleteById(id);
 		return "redirect:/shopad/getAll";
 	}
-	
+	////////////////////////////////////////////////
 }
 
