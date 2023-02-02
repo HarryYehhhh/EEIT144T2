@@ -167,5 +167,6 @@ public class ShopAdController {
 		return "redirect:/shopad/getAll";
 	}
 	////////////////////////////////////////////////
+	//////////////////
 }
 
